@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">AI CV Maker</string>
+    <string name="tagline">Создайте вашу следующую возможность.</string>
+    <string name="sub_tagline">Создавайте эффективные, оптимизированные для ATS резюме с помощью ИИ.</string>
+    <string name="create_new_cv">Создать резюме</string>
+    <string name="create_with_ai">Создать с помощью ИИ</string>
+    <string name="create_manually">Создать вручную</string>
+    <string name="my_cvs">Мои резюме</string>
+    <string name="ai_assistant">ИИ Ассистент</string>
+    <string name="job_optimizer">Оптимизатор вакансий</string>
+    <string name="templates">Шаблоны</string>
+    <string name="settings">Настройки</string>
+    <string name="preview">Предпросмотр</string>
+    <string name="edit">Редактировать</string>
+    <string name="duplicate">Дублировать</string>
+    <string name="export_pdf">Экспорт в PDF</string>
+    <string name="share_pdf">Поделиться PDF</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="next">Далее</string>
+    <string name="back">Назад</string>
+    <string name="exit">Выйти</string>
+    <string name="get_started">Начать</string>
+    <string name="skip">Пропустить</string>
+    <string name="try_again">Повторить</string>
+    <string name="finish_and_preview">Завершить и просмотреть</string>
+    <string name="loading_cv">Загрузка резюме...</string>
+    <string name="search_cvs">Поиск резюме...</string>
+    <string name="no_cvs_title">Резюме пока нет</string>
+    <string name="no_cvs_subtitle">Создайте свое первое резюме вручную или воспользуйтесь помощью ИИ.</string>
+    <string name="create_sample_cv">Загрузить образец резюме</string>
+
+    <!-- Wizard Steps -->
+    <string name="step_personal">Личная информация</string>
+    <string name="step_summary">Профессиональное резюме</string>
+    <string name="step_experience">Опыт работы</string>
+    <string name="step_education">Образование</string>
+    <string name="step_skills">Навыки</string>
+    <string name="step_projects">Проекты</string>
+    <string name="step_certifications">Сертификаты</string>
+    <string name="step_languages">Языки</string>
+    <string name="step_template">Выбор шаблона</string>
+    <string name="step_preview">Предпросмотр и экспорт</string>
+
+    <!-- AI Messages & Dialogs -->
+    <string name="ai_busy">ИИ временно занят. Пожалуйста, повторите попытку позже.</string>
+    <string name="ai_offline">Функции ИИ требуют подключения к Интернету.</string>
+    <string name="ai_notice_title">Обработка ИИ</string>
+    <string name="ai_notice_desc">Отправленные данные могут быть переданы нашему ИИ-сервису для улучшения резюме. Личные данные не сохраняются сервисом ИИ.</string>
+    <string name="ai_apply_title">Применить изменения ИИ?</string>
+    <string name="ai_apply_desc">Проверьте сгенерированный текст перед заменой текущего содержимого.</string>
+    <string name="ai_improve_summary">Улучшить с помощью ИИ</string>
+    <string name="ai_generate_summary">Сгенерировать резюме с помощью ИИ</string>
+    <string name="ai_enhance_experience">Улучшить опыт с помощью ИИ</string>
+    <string name="ai_generate_achievements">Сгенерировать достижения</string>
+    <string name="ai_enhance_project">Улучшить проект с помощью ИИ</string>
+
+    <!-- Templates -->
+    <string name="template_classic">Классический</string>
+    <string name="template_modern">Современный</string>
+    <string name="template_minimal">Минималистичный</string>
+    <string name="template_professional">Профессиональный</string>
+    <string name="template_executive">Руководящий</string>
+
+    <!-- Settings -->
+    <string name="theme_appearance">Внешний вид</string>
+    <string name="theme_system">Системная тема</string>
+    <string name="theme_light">Светлая тема</string>
+    <string name="theme_dark">Темная тема</string>
+    <string name="backend_configuration">Сервер ИИ</string>
+    <string name="backend_url_label">URL бэкенда</string>
+    <string name="privacy_policy">Конфиденциальность и данные</string>
+    <string name="privacy_policy_title">Политика конфиденциальности</string>
+    <string name="danger_zone">Опасная зона</string>
+    <string name="delete_all_data">Удалить все локальные данные</string>
+    <string name="delete_all_confirm_title">Удалить все данные?</string>
+    <string name="delete_all_confirm_desc">Это действие нельзя отменить. Все сохраненные резюме будут безвозвратно удалены с этого устройства.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Создайте профессиональное резюме за считанные минуты.</string>
+    <string name="onboarding_desc_1">Создавайте структурированные резюме, оптимизированные для систем ATS и подходящие для лучших вакансий.</string>
+    <string name="onboarding_title_2">Позвольте ИИ улучшить ваши формулировки.</string>
+    <string name="onboarding_desc_2">Создавайте убедительные описания, улучшайте опыт работы и превращайте задачи в реальные достижения.</string>
+    <string name="onboarding_title_3">Экспортируйте безупречные PDF-документы.</string>
+    <string name="onboarding_desc_3">Создавайте многостраничные файлы формата А4 с выделяемым текстом и профессиональной типографикой.</string>
+</resources>

@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">AI CV Maker</string>
+    <string name="tagline">Keyingi imkoniyatingizni yarating.</string>
+    <string name="sub_tagline">Sun\'iy intellekt yordamida ATS uchun optimallashtirilgan professional rezyumelarni yarating.</string>
+    <string name="create_new_cv">Yangi CV yaratish</string>
+    <string name="create_with_ai">AI bilan yaratish</string>
+    <string name="create_manually">Qo\'lda yaratish</string>
+    <string name="my_cvs">Mening rezyumelarim</string>
+    <string name="ai_assistant">AI Yordamchi</string>
+    <string name="job_optimizer">Vakansiya tahlili</string>
+    <string name="templates">Shablonlar</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="preview">Ko\'rib chiqish</string>
+    <string name="edit">Tahrirlash</string>
+    <string name="duplicate">Nusxasini yaratish</string>
+    <string name="export_pdf">PDF-ga eksport</string>
+    <string name="share_pdf">PDF-ni ulashish</string>
+    <string name="delete">O\'chirish</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="save">Saqlash</string>
+    <string name="next">Keyingisi</string>
+    <string name="back">Orqaga</string>
+    <string name="exit">Chiqish</string>
+    <string name="get_started">Boshlash</string>
+    <string name="skip">O\'tkazib yuborish</string>
+    <string name="try_again">Qayta urinish</string>
+    <string name="finish_and_preview">Tugatish va ko\'rish</string>
+    <string name="loading_cv">CV yuklanmoqda...</string>
+    <string name="search_cvs">CV qidirish...</string>
+    <string name="no_cvs_title">Hozircha CV yo\'q</string>
+    <string name="no_cvs_subtitle">Birinchi rezyumengizni qo\'lda yarating yoki sun\'iy intellektdan foydalaning.</string>
+    <string name="create_sample_cv">Namunaviy CV yuklash</string>
+
+    <!-- Wizard Steps -->
+    <string name="step_personal">Shaxsiy ma\'lumotlar</string>
+    <string name="step_summary">Kasbiy xulosa</string>
+    <string name="step_experience">Ish tajribasi</string>
+    <string name="step_education">Ta\'lim</string>
+    <string name="step_skills">Ko\'nikmalar</string>
+    <string name="step_projects">Loyihalar</string>
+    <string name="step_certifications">Sertifikatlar</string>
+    <string name="step_languages">Tillar</string>
+    <string name="step_template">Shablonni tanlash</string>
+    <string name="step_preview">Ko\'rish va eksport</string>
+
+    <!-- AI Messages & Dialogs -->
+    <string name="ai_busy">AI hozirda band. Iltimos, birozdan so\'ng qayta urinib ko\'ring.</string>
+    <string name="ai_offline">AI funksiyalari uchun internet ulanishi talab qilinadi.</string>
+    <string name="ai_notice_title">AI orqali qayta ishlash</string>
+    <string name="ai_notice_desc">Kiritilgan ma\'lumotlar rezyumeni yaxshilash uchun AI xizmatiga yuborilishi mumkin. Shaxsiy ma\'lumotlar saqlanmaydi.</string>
+    <string name="ai_apply_title">O\'zgarishlarni qo\'llash?</string>
+    <string name="ai_apply_desc">Mavjud matnni almashtirishdan oldin yangi variantni tekshirib ko\'ring.</string>
+    <string name="ai_improve_summary">AI bilan yaxshilash</string>
+    <string name="ai_generate_summary">AI bilan xulosa yaratish</string>
+    <string name="ai_enhance_experience">Tajribani AI bilan boyitish</string>
+    <string name="ai_generate_achievements">Yutuqlarni yaratish</string>
+    <string name="ai_enhance_project">Loyihani AI bilan yaxshilash</string>
+
+    <!-- Templates -->
+    <string name="template_classic">Klassik</string>
+    <string name="template_modern">Zamonaviy</string>
+    <string name="template_minimal">Minimal</string>
+    <string name="template_professional">Professional</string>
+    <string name="template_executive">Rahbar</string>
+
+    <!-- Settings -->
+    <string name="theme_appearance">Tashqi ko\'rinish</string>
+    <string name="theme_system">Tizim holati</string>
+    <string name="theme_light">Yorug\' mavzu</string>
+    <string name="theme_dark">Qorong\'i mavzu</string>
+    <string name="backend_configuration">AI serveri</string>
+    <string name="backend_url_label">Server URL manzili</string>
+    <string name="privacy_policy">Maxfiylik va ma\'lumotlar</string>
+    <string name="privacy_policy_title">Maxfiylik siyosati</string>
+    <string name="danger_zone">Xavfli hudud</string>
+    <string name="delete_all_data">Barcha ma\'lumotlarni o\'chirish</string>
+    <string name="delete_all_confirm_title">Barcha ma\'lumotlar o\'chirilsinmi?</string>
+    <string name="delete_all_confirm_desc">Ushbu amalni ortga qaytarib bo\'lmaydi. Barcha saqlangan rezyumelar butunlay o\'chiriladi.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Bir necha daqiqada professional CV yarating.</string>
+    <string name="onboarding_desc_1">Yetakchi kompaniyalar va ATS talablariga mos chiroyli rezyumelarni tayyorlang.</string>
+    <string name="onboarding_title_2">AI rezyumengizni mukammallashtirsin.</string>
+    <string name="onboarding_desc_2">Aniq xulosalar tuzing, ish tajribasini sayqallang va vazifalarni yutuqlarga aylantiring.</string>
+    <string name="onboarding_title_3">Ulashishga tayyor ajoyib PDF-lar oling.</string>
+    <string name="onboarding_desc_3">Tanlanadigan matn va mukammal shriftlarga ega ko\'p sahifali A4 PDF hujjatlarini yuklab oling.</string>
+</resources>

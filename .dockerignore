@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+.kotlin/
+app/
+build/
+local.properties
+*.log
+*.hprof
+.git/

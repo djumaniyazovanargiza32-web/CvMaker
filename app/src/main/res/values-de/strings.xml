@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">AI CV Maker</string>
+    <string name="tagline">Erschaffen Sie Ihre nächste Chance.</string>
+    <string name="sub_tagline">Erstellen Sie wirkungsvolle, ATS-optimierte Lebensläufe mit KI-Unterstützung.</string>
+    <string name="create_new_cv">Neuen Lebenslauf erstellen</string>
+    <string name="create_with_ai">Mit KI erstellen</string>
+    <string name="create_manually">Manuell erstellen</string>
+    <string name="my_cvs">Meine Lebensläufe</string>
+    <string name="ai_assistant">KI-Assistent</string>
+    <string name="job_optimizer">Stellen-Optimierer</string>
+    <string name="templates">Vorlagen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="preview">Vorschau</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="duplicate">Duplizieren</string>
+    <string name="export_pdf">PDF exportieren</string>
+    <string name="share_pdf">PDF teilen</string>
+    <string name="delete">Löschen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Speichern</string>
+    <string name="next">Weiter</string>
+    <string name="back">Zurück</string>
+    <string name="exit">Beenden</string>
+    <string name="get_started">Loslegen</string>
+    <string name="skip">Überspringen</string>
+    <string name="try_again">Erneut versuchen</string>
+    <string name="finish_and_preview">Fertigstellen &amp; Vorschau</string>
+    <string name="loading_cv">Lebenslauf wird geladen...</string>
+    <string name="search_cvs">Lebensläufe durchsuchen...</string>
+    <string name="no_cvs_title">Noch keine Lebensläufe</string>
+    <string name="no_cvs_subtitle">Erstellen Sie Ihren ersten professionellen Lebenslauf manuell oder mit Hilfe der KI.</string>
+    <string name="create_sample_cv">Beispiel-Lebenslauf laden</string>
+
+    <!-- Wizard Steps -->
+    <string name="step_personal">Persönliche Angaben</string>
+    <string name="step_summary">Berufliches Profil</string>
+    <string name="step_experience">Berufserfahrung</string>
+    <string name="step_education">Ausbildung</string>
+    <string name="step_skills">Kenntnisse &amp; Fähigkeiten</string>
+    <string name="step_projects">Projekte</string>
+    <string name="step_certifications">Zertifikate</string>
+    <string name="step_languages">Sprachen</string>
+    <string name="step_template">Vorlage wählen</string>
+    <string name="step_preview">Vorschau &amp; Export</string>
+
+    <!-- AI Messages & Dialogs -->
+    <string name="ai_busy">Die KI ist vorübergehend ausgelastet. Bitte versuchen Sie es gleich erneut.</string>
+    <string name="ai_offline">KI-Funktionen erfordern eine Internetverbindung.</string>
+    <string name="ai_notice_title">KI-Verarbeitungshinweis</string>
+    <string name="ai_notice_desc">Die übermittelten Daten können an unseren KI-Dienst gesendet werden. Es werden keine personenbezogenen Daten dauerhaft gespeichert.</string>
+    <string name="ai_apply_title">KI-Änderungen anwenden?</string>
+    <string name="ai_apply_desc">Überprüfen Sie den generierten Text, bevor Sie Ihren aktuellen Inhalt ersetzen.</string>
+    <string name="ai_improve_summary">Mit KI verbessern</string>
+    <string name="ai_generate_summary">Profil mit KI generieren</string>
+    <string name="ai_enhance_experience">Erfahrung mit KI verfeinern</string>
+    <string name="ai_generate_achievements">Erfolge generieren</string>
+    <string name="ai_enhance_project">Projekt mit KI optimieren</string>
+
+    <!-- Templates -->
+    <string name="template_classic">Klassisch</string>
+    <string name="template_modern">Modern</string>
+    <string name="template_minimal">Minimalistisch</string>
+    <string name="template_professional">Professionell</string>
+    <string name="template_executive">Führungskraft</string>
+
+    <!-- Settings -->
+    <string name="theme_appearance">Erscheinungsbild</string>
+    <string name="theme_system">Systemstandard</string>
+    <string name="theme_light">Helles Design</string>
+    <string name="theme_dark">Dunkles Design</string>
+    <string name="backend_configuration">KI-Backend-Server</string>
+    <string name="backend_url_label">Backend-URL</string>
+    <string name="privacy_policy">Datenschutz &amp; Daten</string>
+    <string name="privacy_policy_title">Datenschutzerklärung</string>
+    <string name="danger_zone">Gefahrenbereich</string>
+    <string name="delete_all_data">Alle lokalen Daten löschen</string>
+    <string name="delete_all_confirm_title">Alle Daten löschen?</string>
+    <string name="delete_all_confirm_desc">Diese Aktion kann nicht rückgängig gemacht werden. Alle gespeicherten Lebensläufe werden dauerhaft gelöscht.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Professionellen Lebenslauf in Minuten erstellen.</string>
+    <string name="onboarding_desc_1">Erstellen Sie ATS-freundliche, übersichtliche Lebensläufe für Spitzenpositionen.</string>
+    <string name="onboarding_title_2">Lassen Sie die KI Ihre Inhalte optimieren.</string>
+    <string name="onboarding_desc_2">Erstellen Sie prägnante Zusammenfassungen und verwandeln Sie Aufgaben in echte Erfolge.</string>
+    <string name="onboarding_title_3">Wunderschöne druckfertige PDFs exportieren.</string>
+    <string name="onboarding_desc_3">Erstellen Sie mehrseitige A4-PDFs mit markierbarem Text und feiner Typografie zum sofortigen Teilen.</string>
+</resources>
